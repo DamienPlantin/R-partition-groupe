@@ -1,0 +1,10 @@
+17/01/2021 06:49:17 PM - RandomGroup - INFO - ************************************** Début du script *****************************************************************
+17/01/2021 06:49:18 PM - RandomGroup - INFO - Le fichier promo.txt va être utilisé pour constituer des groupes au hasard
+17/01/2021 06:49:19 PM - RandomGroup - INFO - Il y aura maximum 5 personnes dans chaque groupe
+17/01/2021 06:49:19 PM - RandomGroup - INFO - La consitution des groupes sera comme suit : [5, 4, 4, 4]
+17/01/2021 06:49:19 PM - RandomGroup - INFO - VOici donc la constitution des groupes après tirage au sort des personnes dans la liste de noms
+17/01/2021 06:49:19 PM - RandomGroup - INFO - Groupe 1 : ['Selem MERILI', 'Abdulrahman SARAIJE', 'Yoan SANCHEZ', 'Stéphanie REGNIER', 'Nicolas PRODHOMME']
+17/01/2021 06:49:19 PM - RandomGroup - INFO - Groupe 2 : ['Khalid MESSAOUDI', 'Emilie LE BOURG', 'Juljan COBANI', 'Sarah TRUFFERT']
+17/01/2021 06:49:19 PM - RandomGroup - INFO - Groupe 3 : ['Mamadou Djan DIALLO', 'Kellian THEMEREAU', 'Clément CAPS', 'Gauthier GINIER']
+17/01/2021 06:49:19 PM - RandomGroup - INFO - Groupe 4 : ['Damien PLANTIN', 'Adrian RUIZ', 'Yanis GACEM', 'Fayrouz EL JENADI']
+17/01/2021 06:49:19 PM - RandomGroup - INFO - ************************************** Fin du script *****************************************************************
